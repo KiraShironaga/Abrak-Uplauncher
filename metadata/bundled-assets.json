@@ -1,0 +1,1023 @@
+{
+  "version": "1.4.65",
+  "assets": [
+    {
+      "path": "1.jpg",
+      "size": 7907,
+      "sha256": "feec42ffa8f9b999213194df1d8f344a9f6adfcd0d5d0c6edd591f88470089b3"
+    },
+    {
+      "path": "icons.svg",
+      "size": 62622,
+      "sha256": "b4182747e6c19904091aab2eb11cad860a95d8167d31321f2dd61ffd84fd3f4c"
+    },
+    {
+      "path": "logo.png",
+      "size": 735348,
+      "sha256": "f095483fdb57a2c118c18da436836e04d8964d0d2ff9ac3cdb405455c32a4e38"
+    },
+    {
+      "path": "logo_ico.png",
+      "size": 652374,
+      "sha256": "9f7b54be18cfa64e9dc877bff855aa3979e3a9ebe2ca53a4e50a36cf095b9a79"
+    },
+    {
+      "path": "temporis_two.jpg",
+      "size": 395668,
+      "sha256": "564144c93c308bf4ccd5d44911ff9ca596932a056ad38a09323538ff0e100e10"
+    },
+    {
+      "path": "temporis_two.svg",
+      "size": 12443,
+      "sha256": "0100c69d0b9c3ba77b43773b047072c37a98050a026486aec26046b66c198f5f"
+    },
+    {
+      "path": "wheel/planes.png",
+      "size": 131210,
+      "sha256": "897b1c67f69ad305a35a76fd8fc95f9dafebdef6d2cbd04edf3e2ed91f17540f"
+    },
+    {
+      "path": "wheel/spin_off.png",
+      "size": 4365,
+      "sha256": "7da105da0b506c986073cdb79f48e26820bfe3e7698b32ecc1c409a68a54cc29"
+    },
+    {
+      "path": "wheel/spin_on.png",
+      "size": 4769,
+      "sha256": "40c4554802e7af53792bd8f043a6a44788fb486c2403916ac22699a35b32a04f"
+    },
+    {
+      "path": "wheel/wheel_back.png",
+      "size": 15807,
+      "sha256": "5bb1db87e26ea49a58981ede6fb9f76297eb7784caa47b72ec6e89e4c53a2c64"
+    },
+    {
+      "path": "template/vip/adventages_bg.svg",
+      "size": 5733,
+      "sha256": "31566dd4aa80e40a4e3b20ef6853fe8599c4ac6ad0ef2b9a93e1672b13b6b9f9"
+    },
+    {
+      "path": "template/vip/btn_background.svg",
+      "size": 11711,
+      "sha256": "45e4e2c3b1b10c97fe2159a879710fb4b0645e61bd110fc457f28a5efcb510c9"
+    },
+    {
+      "path": "template/vip/card.svg",
+      "size": 27669,
+      "sha256": "1565d7d3828064a16284ea2a72a8385d9dbbbe8255195420df57f5c27415189a"
+    },
+    {
+      "path": "template/vip/close.svg",
+      "size": 8576,
+      "sha256": "b19d8177976e57312187ff437634b5d8b6032e4314e81144056571f772d894be"
+    },
+    {
+      "path": "template/vip/img.svg",
+      "size": 304313,
+      "sha256": "f0bb2de89c2b78a659c1553c811ec7f07ed05057878ae7ecc2cc38d583e0c667"
+    },
+    {
+      "path": "template/vip/item_bg.svg",
+      "size": 1535,
+      "sha256": "bd34987d6d6cb83e423234937b3630beac46a88ad6d7cee8ec6e031bb22b5d6e"
+    },
+    {
+      "path": "template/vip/left_bambou.svg",
+      "size": 45655,
+      "sha256": "b6a712a39343037cfbde3e01d36f4c8a7c25bda671de543028a18614cfe74f2c"
+    },
+    {
+      "path": "template/vip/logo.svg",
+      "size": 46534,
+      "sha256": "bbc901dafc2205dd93f6d0aa28dbc4e8f84fb9078648426615005ddbef5f71e8"
+    },
+    {
+      "path": "template/vip/right_bambou.svg",
+      "size": 45945,
+      "sha256": "f4512d836d06c4549b3e4e50dbc7c5b1afd08974b9b182f35d06ba6c810b94ca"
+    },
+    {
+      "path": "template/vip/typo/AbhayaLibre-Bold.ttf",
+      "size": 511516,
+      "sha256": "3ee6ec02d4bd4947b1ebeb31f8a45b822e25218aa83dac57b8bd83c05c33d80e"
+    },
+    {
+      "path": "template/vip/typo/AbhayaLibre-ExtraBold.ttf",
+      "size": 518396,
+      "sha256": "e5ae6113d87d11b9fe4f48e6f0fa8b0b1d9dff15cc33c96fda62a61fd6a2d133"
+    },
+    {
+      "path": "template/vip/typo/AbhayaLibre-Medium.ttf",
+      "size": 527492,
+      "sha256": "b59f2b09d6aabbbeacfc1dc4989e2748dad661f051e5954109b507db91b2ffe5"
+    },
+    {
+      "path": "template/vip/typo/AbhayaLibre-Regular.ttf",
+      "size": 538364,
+      "sha256": "b636a4f76bce555058e06e6821a618c413725b0b358d460f047dedf0b2d8cecf"
+    },
+    {
+      "path": "template/vip/typo/AbhayaLibre-SemiBold.ttf",
+      "size": 502928,
+      "sha256": "89090387aabe5568675d2ab547b8cc0c7fdcf9f49187265d0b6acc24bbb3ef4a"
+    },
+    {
+      "path": "template/vip/typo/TitanOne-Regular.ttf",
+      "size": 52708,
+      "sha256": "bcac194b2c80941682789e854d0515855a41dfa0d3f209fbf1725b15cd9fd063"
+    },
+    {
+      "path": "template/media/maps/10276.jpg",
+      "size": 178096,
+      "sha256": "eb5366f92d4ecc398e5863638cfc737acf7896f050a3b8b5cc23177802b8e014"
+    },
+    {
+      "path": "template/media/maps/10279.jpg",
+      "size": 181697,
+      "sha256": "010b9d611284913637c54d1c13ba638c9538f23a3b14ca3db5818c199c43f93e"
+    },
+    {
+      "path": "template/media/maps/10283.jpg",
+      "size": 174038,
+      "sha256": "59a075b438b5feccd65d8f7d541777dbd18562e6d8ee94e06a33655c701afa4e"
+    },
+    {
+      "path": "template/media/maps/10284.jpg",
+      "size": 163850,
+      "sha256": "60cff90c45aa0530022fdfcaacbfbb0837b66d6ca6d7e58d9e769ca31e91778d"
+    },
+    {
+      "path": "template/media/maps/10285.jpg",
+      "size": 172147,
+      "sha256": "e53aff362f92ebfd0534c5bb89ab4ac3bc8b967a74a5ffc3b33bac4548a6497f"
+    },
+    {
+      "path": "template/media/maps/10289.jpg",
+      "size": 188264,
+      "sha256": "f0550938b6e23cf97551e72692cf765cccfa4fe612b7498b36034efd41815a60"
+    },
+    {
+      "path": "template/media/maps/10292.jpg",
+      "size": 172782,
+      "sha256": "a7e3f1d0b854ffdd30d11ecfd0ee874051db6e677357413ebdfdef7f5b764fd8"
+    },
+    {
+      "path": "template/media/maps/10294.jpg",
+      "size": 185605,
+      "sha256": "3695e61ccef9fa990eeba2ab9756c5a1820277e23dde68ef804e714428251188"
+    },
+    {
+      "path": "template/media/maps/10296.jpg",
+      "size": 178353,
+      "sha256": "6fd9b231a14dc66b2294184d282dabd418dc1213e3070193de51559ddb677352"
+    },
+    {
+      "path": "template/media/maps/10298.jpg",
+      "size": 184108,
+      "sha256": "c1eaf3f899029bc722d712d59009ff50c1b17e5e7541d8113a6efe4d9c17c6a1"
+    },
+    {
+      "path": "template/media/maps/10299.jpg",
+      "size": 186122,
+      "sha256": "260aadbd514a1bcb8fca2b6cd779c3d2e17b4acc1c0366d329e002f12495ba89"
+    },
+    {
+      "path": "template/media/maps/10300.jpg",
+      "size": 169472,
+      "sha256": "e59394c7400b3f0093d729a308a53786ec616b9b404e81d00c7c53f824f03cb9"
+    },
+    {
+      "path": "template/media/layout/battlepass-bg.jpg",
+      "size": 461619,
+      "sha256": "6591cc9017899cc44786b4d1883086fbfa7e56df1e0e7bac45048b22e82c5b42"
+    },
+    {
+      "path": "template/media/layout/ui/arrow-blue.png",
+      "size": 3857,
+      "sha256": "e0303b731e672b8a36c67570f96f1d933ebd241384b2db932fa890179f0e6325"
+    },
+    {
+      "path": "template/media/layout/ui/arrow-grey.png",
+      "size": 5122,
+      "sha256": "65ffc9443dfb0a3b1483e844ca084e37696f5bd5f51ad231e3cc5d6045cf53c5"
+    },
+    {
+      "path": "template/media/layout/ui/blue-green-white-bg.jpg",
+      "size": 74898,
+      "sha256": "4cf4f0fd0ad15b230c0404c882cf9e3d9eb1546020c1825885513ce92284e4e0"
+    },
+    {
+      "path": "template/media/layout/ui/blur-bg.jpg",
+      "size": 53873,
+      "sha256": "c6acd53c06ccde2ca2f9dc5f92ca28d6d0e3995e36f5d34c2f60d64e9a94023d"
+    },
+    {
+      "path": "template/media/layout/ui/bone-left.png",
+      "size": 27738,
+      "sha256": "c6e9a5ee397c5291e0d277aeb660eb6f9c70ac98003d611fa6f55e0907819020"
+    },
+    {
+      "path": "template/media/layout/ui/bone-right.png",
+      "size": 27097,
+      "sha256": "b5e4eb538d17c67d1ff3f8a42bac071eef0f6bfb7c79d5aeab5199cc6122f419"
+    },
+    {
+      "path": "template/media/layout/ui/button-bg.jpg",
+      "size": 1503,
+      "sha256": "7c5fa35bcb88017d1562bac347839ada20a394740dd9593f63a4c502ab641f0e"
+    },
+    {
+      "path": "template/media/layout/ui/button-dark-grey-bg.jpg",
+      "size": 1337,
+      "sha256": "7cb0fb010f01d1ff1f77864c31911e354c6aeea72aa0cbdfb50062eb8bae9b1b"
+    },
+    {
+      "path": "template/media/layout/ui/button-dark-grey.png",
+      "size": 5806,
+      "sha256": "f22440ad5074fc7ec230dec8e3f456c092888d61697f333d5e3dc137c4870141"
+    },
+    {
+      "path": "template/media/layout/ui/button-gold-bg.jpg",
+      "size": 2493,
+      "sha256": "c67b7aaac1c88dbf826fe5f555c1f41f20832d001028207df774c5b716b17d1f"
+    },
+    {
+      "path": "template/media/layout/ui/button-gold-square-bg.jpg",
+      "size": 13074,
+      "sha256": "7d06283ecfc7e26f765b31bfa8490058b80da7f9e3ee8d1bd1bc6cd1c8710957"
+    },
+    {
+      "path": "template/media/layout/ui/button-gold-square.jpg",
+      "size": 6558,
+      "sha256": "4f524e7d5067e8133f6977c494c88a6500f7d87fa64fdb8f21fde7ef738713e0"
+    },
+    {
+      "path": "template/media/layout/ui/button-gold.png",
+      "size": 16893,
+      "sha256": "ed397042de00d6253cf71257f454ebbdd5998d5d3126c1847e0e64f928c3be0f"
+    },
+    {
+      "path": "template/media/layout/ui/button-header-active-bg.jpg",
+      "size": 1029,
+      "sha256": "bc9f1e5d449561906488b1341468cabe29b1fcf75e03912db92756f2fbcabaef"
+    },
+    {
+      "path": "template/media/layout/ui/button-header-bg.jpg",
+      "size": 619,
+      "sha256": "490542d574cb43b9db8dd9f69ef15532209c50f60a6413223203eae058a45241"
+    },
+    {
+      "path": "template/media/layout/ui/button-header.png",
+      "size": 2795,
+      "sha256": "7d57e645af47fb656773927771f1dfb087b895d8e9d5942c740d2e37bae55006"
+    },
+    {
+      "path": "template/media/layout/ui/button-important.png",
+      "size": 17367,
+      "sha256": "3a2ac71883cf03c320a804cdcfdfe417232cbac11fa5d95ec2892bb152c43881"
+    },
+    {
+      "path": "template/media/layout/ui/button-processing.png",
+      "size": 6060,
+      "sha256": "dda542b7a2ccd0f0ac1b8edcc042066f74f15a1ad54888b314b4bbf65cc66b31"
+    },
+    {
+      "path": "template/media/layout/ui/button.png",
+      "size": 11988,
+      "sha256": "4a60a8a326b78c06eab2b243a256a86b32d4095bd6387fb7e77f1082fa3189f2"
+    },
+    {
+      "path": "template/media/layout/ui/card-number.png",
+      "size": 5854,
+      "sha256": "6860b2208b4d2c9a0a131c04b1dfc914dd555fff225819955c8769aa4d12c696"
+    },
+    {
+      "path": "template/media/layout/ui/chain-pattern.png",
+      "size": 14879,
+      "sha256": "48aa6e60f82830856279efc67336d2a6db8dbe8a7e58690e1eea453422d79358"
+    },
+    {
+      "path": "template/media/layout/ui/corner-edge.png",
+      "size": 7741,
+      "sha256": "1e0c8a621b7e9566f83de272fabd6ea691e574576a5dafc3b96856cc0228362e"
+    },
+    {
+      "path": "template/media/layout/ui/corner.png",
+      "size": 4096,
+      "sha256": "aa464d07c1ec55d30d59b2400507916fb3e331d68ec620e0b7a51a96e258fa90"
+    },
+    {
+      "path": "template/media/layout/ui/dauntless-logo.png",
+      "size": 1315,
+      "sha256": "2cf92ce5d14cabcf62b365ca1b9969cf17145348ee7154717c4c475b9a8f4bf7"
+    },
+    {
+      "path": "template/media/layout/ui/divider.png",
+      "size": 2262,
+      "sha256": "6536de18a74ad17c1bf078c5e02879e5769a778e1d3c12165b915dd98550f2ff"
+    },
+    {
+      "path": "template/media/layout/ui/epic-logo.png",
+      "size": 3093,
+      "sha256": "c3886d392324bc1a831375143f7fecacdc1932722b703e4edd442955b7adf8bd"
+    },
+    {
+      "path": "template/media/layout/ui/footer-bg.png",
+      "size": 283,
+      "sha256": "63e82ceffdae17707fea2cb388216c41bfa6a1ea05e0d2f3e51e59b378f39916"
+    },
+    {
+      "path": "template/media/layout/ui/game-rating-ESRB_teen_blood_violence.jpg",
+      "size": 17680,
+      "sha256": "01dff80bc4bd1c319f495c157bd58e2e000055d4862ff2a7efeba7341b479751"
+    },
+    {
+      "path": "template/media/layout/ui/game-rating-pegi-12.jpg",
+      "size": 571516,
+      "sha256": "359f9d7e39d6df9a9f24d526c57081175569090de0e707addcf90a49cbf777a3"
+    },
+    {
+      "path": "template/media/layout/ui/gem.png",
+      "size": 4534,
+      "sha256": "c5710414d0b0f6825c75a2e31fc6c06f763daefb0434c40817235c98bd7c3ec8"
+    },
+    {
+      "path": "template/media/layout/ui/header-bg.png",
+      "size": 332,
+      "sha256": "fad4d1eaf88e3ad62c4bc506588bf8a79932fa36ab24b8e81fa6f25b03fb60df"
+    },
+    {
+      "path": "template/media/layout/ui/header-bg_.png",
+      "size": 1830,
+      "sha256": "7137127cb1efd581f1516eae925860d9d0bb440214d633930bb7da95c0dcb0d7"
+    },
+    {
+      "path": "template/media/layout/ui/new-flag.png",
+      "size": 1043,
+      "sha256": "5663426225badf8e4580ac0c705a54f97e9a54f11aa004ba6076e817c7aeff1f"
+    },
+    {
+      "path": "template/media/layout/ui/ornament-feathers.png",
+      "size": 26667,
+      "sha256": "5b34b0e2c5b101c6c5a6b91d080c3dfd770ca8f860cb80b34b952e9237a6775b"
+    },
+    {
+      "path": "template/media/layout/ui/ornament-footer.png",
+      "size": 22854,
+      "sha256": "d4c3116a3dbd9caa2b96e8cf9d6ca6167c28b7893f2ee0ac8ee18deedcf89ea8"
+    },
+    {
+      "path": "template/media/layout/ui/ornament-medalion.png",
+      "size": 123510,
+      "sha256": "b622db4088ab75c3789b5eca5b99bb2199c018973b97dfb2c11a9d8c696b2f97"
+    },
+    {
+      "path": "template/media/layout/ui/ornament-solid.png",
+      "size": 14368,
+      "sha256": "cf0dd168c0fdcf3d516c80001114d61c0af4f9c900cfc8d08ce43301b3e8f260"
+    },
+    {
+      "path": "template/media/layout/ui/ornament.png",
+      "size": 4593,
+      "sha256": "837adde88276705883b22445548275c5977f746eb9ea763fea27f43f634c064c"
+    },
+    {
+      "path": "template/media/layout/ui/pangar-animation-strip-bw.png",
+      "size": 186575,
+      "sha256": "83e0826a3af93ebe226ac7bc69ed499f08abeb57eb2860815a37195adfd691d8"
+    },
+    {
+      "path": "template/media/layout/ui/play-button.svg",
+      "size": 29971,
+      "sha256": "f8850c7e61197e55df724a49c7c9d1374570181c0a4448cc2d8f82cd43a1dddf"
+    },
+    {
+      "path": "template/media/layout/ui/search-user.png",
+      "size": 6243,
+      "sha256": "eec2dc43a5a2bd43fa3c42b359ae73a9a58bafb1a2706f74c35140397f84eead"
+    },
+    {
+      "path": "template/media/layout/ui/share-arrow-white.png",
+      "size": 3693,
+      "sha256": "84b13888b3f192d638d3672d35f8822d9ba60ea631d8a15c6328331595559d16"
+    },
+    {
+      "path": "template/media/layout/ui/title-block-bg.png",
+      "size": 81100,
+      "sha256": "c4c13c3eee80e5df55c3910d7fc5fd504c655097eb679bd8ca8ece0d470755e4"
+    },
+    {
+      "path": "template/media/layout/ui/title-block-bottom-bg.png",
+      "size": 22066,
+      "sha256": "ac3be143ee1209ca9e9cb592809230a43b0518634c52d7826949d3a60fe93a85"
+    },
+    {
+      "path": "template/media/layout/ui/title-plate-bg.jpg",
+      "size": 5303,
+      "sha256": "2a17f676748a871829bcc2cbc7e759a2b8ae58d08d9243aae87dc34a436d3e7e"
+    },
+    {
+      "path": "template/media/layout/ui/title-plate.png",
+      "size": 49066,
+      "sha256": "2e30bc59fe0522dc9615d42ea58b8cb6ee5f905b1657b09f213426fb96c34695"
+    },
+    {
+      "path": "template/media/layout/ui/wooden-pattern.jpg",
+      "size": 25290,
+      "sha256": "5b8a2e93d88c34e8fa1c9473796818d57d4589eb40b974e29e9155b6509bd646"
+    },
+    {
+      "path": "template/battlepass/free.png",
+      "size": 95624,
+      "sha256": "79da54020cd9188f709c4dc6463cd95f30c5e93ce30ddda15deecc5354378315"
+    },
+    {
+      "path": "template/battlepass/free_arrow.png",
+      "size": 6239,
+      "sha256": "cec371fc1a2aa1a665590886a6cdc03a910b2b07d66fef91ee0c1742355c66f9"
+    },
+    {
+      "path": "template/battlepass/kamas.png",
+      "size": 5819,
+      "sha256": "6fc34af411b9cc6345ea170d2fd612c32ab83a247a1548fb3ae77ce7017bdae1"
+    },
+    {
+      "path": "template/battlepass/locked.png",
+      "size": 306209,
+      "sha256": "d8af5951b45102988708463fe1b26e554fc36a5eeba317eddbb650a90181559f"
+    },
+    {
+      "path": "template/battlepass/logo.png",
+      "size": 55913,
+      "sha256": "20507b233bf667a11695dd4abc84821d3fc37c55735ae4aa63a4ac11b9ad485c"
+    },
+    {
+      "path": "template/battlepass/prenium.png",
+      "size": 115057,
+      "sha256": "26d3097ec3172142ef301ed8bd6884b03803fbd2c081b1db98d79582686558e0"
+    },
+    {
+      "path": "template/battlepass/prenium_arrow.png",
+      "size": 5949,
+      "sha256": "262d915ad80f74ae606b7654f39f2e47451313862cf12bc99459574c85f8ecfb"
+    },
+    {
+      "path": "template/battlepass/tempotons.svg",
+      "size": 28179,
+      "sha256": "907c328980c81c472667000efaccbf84b742f6f8e353d630b025eb2942b5bc55"
+    },
+    {
+      "path": "template/battlepass/ticket.svg",
+      "size": 57962,
+      "sha256": "690541ecfc20802416bb49ce8bc46384f05f956d27ea3e574fc21d9f2e7b952f"
+    },
+    {
+      "path": "template/battlepass/ticket_prenium.png",
+      "size": 52585,
+      "sha256": "42396839bee4eafd6f58d3b50f06cbc0fdbcdd94a278bd3d87d5b7eef3e54af5"
+    },
+    {
+      "path": "template/battlepass/unlocked.png",
+      "size": 4303,
+      "sha256": "cd8b8478a090aeb9a61270d006fa022afeb4bf429da0bd411ee16433d5466df0"
+    },
+    {
+      "path": "template/battlepass/white_bg.png",
+      "size": 73348,
+      "sha256": "b6fa15719deda48eef562f5ade8c979562a3e6f216c9cd6460b4fc71abaf8912"
+    },
+    {
+      "path": "sounds/click.wav",
+      "size": 29828,
+      "sha256": "ec80cb596ffe1422e34ffdada29cef83dafbcb79a051b11caa4f1240795c960d"
+    },
+    {
+      "path": "shop/10-1.jpg",
+      "size": 253747,
+      "sha256": "67a0d8a864b6f6334cbf8ad45661cd224c677d9ce31e4044c621104bf999b96d"
+    },
+    {
+      "path": "shop/10.png",
+      "size": 3086397,
+      "sha256": "a4f621793ecf710fe1af670beae2b5fdfd6bb69ea677dddd511437fc2eacbe7e"
+    },
+    {
+      "path": "shop/11.png",
+      "size": 5459514,
+      "sha256": "b0c91a8fcf96d69a74fe027dfafac5c654dfe41312aa2639c614671f4d015209"
+    },
+    {
+      "path": "shop/6-1.jpg",
+      "size": 183829,
+      "sha256": "98db7fef90d664c667a223d774e7c384bdacde36437d3cee94396529f48dd2a0"
+    },
+    {
+      "path": "shop/6.png",
+      "size": 433967,
+      "sha256": "826f4c3f45283756a7e33c0418db778bac7a367f2447fcd607a1353771f31522"
+    },
+    {
+      "path": "shop/7-2.jpg",
+      "size": 227096,
+      "sha256": "5c9a44b8ad95d24ba99876de5190a8e4c21a94acef9124ec97378c96f59fed85"
+    },
+    {
+      "path": "shop/7.png",
+      "size": 2600001,
+      "sha256": "bd80c1bdcb88d8b850a067e146e5698a72c25771d4366d726f61e089d9ecbc05"
+    },
+    {
+      "path": "shop/8-2.jpg",
+      "size": 241486,
+      "sha256": "83ba9e99360d3e4602f99b22aa604dc6d5f08de25826454b8951818e561797e4"
+    },
+    {
+      "path": "shop/8.png",
+      "size": 3336720,
+      "sha256": "6303390ba26229b7d16ea3d06e4c083b1bc0700bc4fb3edbc1785293a8bd4698"
+    },
+    {
+      "path": "shop/9-1.jpg",
+      "size": 251085,
+      "sha256": "0b944385f1c974b01afe390ee443d9c09163a6b589fe2674f821bace5ace3980"
+    },
+    {
+      "path": "shop/9.png",
+      "size": 4513331,
+      "sha256": "9eea1559c4eacd66361f5f9d0c2543efca777a9e155168ded17d0d29a1ef4169"
+    },
+    {
+      "path": "media/click.6799a3c0.wav",
+      "size": 29828,
+      "sha256": "ec80cb596ffe1422e34ffdada29cef83dafbcb79a051b11caa4f1240795c960d"
+    },
+    {
+      "path": "img/arcane.d1daa0fc.png",
+      "size": 16537,
+      "sha256": "7bc4e44c39ca7524124417037dee9f62f6a6fe8d9f73926d542ed71d254afc5a"
+    },
+    {
+      "path": "img/blue-green-white-bg.9e3091b7.jpg",
+      "size": 74898,
+      "sha256": "4cf4f0fd0ad15b230c0404c882cf9e3d9eb1546020c1825885513ce92284e4e0"
+    },
+    {
+      "path": "img/bone-left.b3f3ab87.png",
+      "size": 27738,
+      "sha256": "c6e9a5ee397c5291e0d277aeb660eb6f9c70ac98003d611fa6f55e0907819020"
+    },
+    {
+      "path": "img/bone-right.a5e90400.png",
+      "size": 27097,
+      "sha256": "b5e4eb538d17c67d1ff3f8a42bac071eef0f6bfb7c79d5aeab5199cc6122f419"
+    },
+    {
+      "path": "img/button-gold.c372c347.png",
+      "size": 16893,
+      "sha256": "ed397042de00d6253cf71257f454ebbdd5998d5d3126c1847e0e64f928c3be0f"
+    },
+    {
+      "path": "img/button-important.47d3faad.png",
+      "size": 17367,
+      "sha256": "3a2ac71883cf03c320a804cdcfdfe417232cbac11fa5d95ec2892bb152c43881"
+    },
+    {
+      "path": "img/button.b3240db4.png",
+      "size": 11988,
+      "sha256": "4a60a8a326b78c06eab2b243a256a86b32d4095bd6387fb7e77f1082fa3189f2"
+    },
+    {
+      "path": "img/chain-pattern.8bdfde86.png",
+      "size": 14879,
+      "sha256": "48aa6e60f82830856279efc67336d2a6db8dbe8a7e58690e1eea453422d79358"
+    },
+    {
+      "path": "img/launcher-background.d8b159ed.webp",
+      "size": 387662,
+      "sha256": "14f64a3a1a6e8adc0bb3e49029d656c157d6eeb379472862d1b68fb39f64ebe0"
+    },
+    {
+      "path": "img/ornament-feathers.cb122cab.png",
+      "size": 26667,
+      "sha256": "5b34b0e2c5b101c6c5a6b91d080c3dfd770ca8f860cb80b34b952e9237a6775b"
+    },
+    {
+      "path": "img/ornament-footer.c770611b.png",
+      "size": 22854,
+      "sha256": "d4c3116a3dbd9caa2b96e8cf9d6ca6167c28b7893f2ee0ac8ee18deedcf89ea8"
+    },
+    {
+      "path": "img/ornament-medalion.135df855.png",
+      "size": 123510,
+      "sha256": "b622db4088ab75c3789b5eca5b99bb2199c018973b97dfb2c11a9d8c696b2f97"
+    },
+    {
+      "path": "img/ornament-solid.8807e971.png",
+      "size": 14368,
+      "sha256": "cf0dd168c0fdcf3d516c80001114d61c0af4f9c900cfc8d08ce43301b3e8f260"
+    },
+    {
+      "path": "img/pangar-animation-strip-bw.2056fe33.png",
+      "size": 186575,
+      "sha256": "83e0826a3af93ebe226ac7bc69ed499f08abeb57eb2860815a37195adfd691d8"
+    },
+    {
+      "path": "img/title-block-bg.12c22d54.png",
+      "size": 81100,
+      "sha256": "c4c13c3eee80e5df55c3910d7fc5fd504c655097eb679bd8ca8ece0d470755e4"
+    },
+    {
+      "path": "img/title-block-bottom-bg.60539bd5.png",
+      "size": 22066,
+      "sha256": "ac3be143ee1209ca9e9cb592809230a43b0518634c52d7826949d3a60fe93a85"
+    },
+    {
+      "path": "img/title-plate.7c74333a.png",
+      "size": 49066,
+      "sha256": "2e30bc59fe0522dc9615d42ea58b8cb6ee5f905b1657b09f213426fb96c34695"
+    },
+    {
+      "path": "icons/favicon-32x32.png",
+      "size": 3278,
+      "sha256": "b50bbbe65b8c9e01bc3766d07751a6bd9b050bb56e4ce1a6c04ae172d1a6d413"
+    },
+    {
+      "path": "icons/icon.ico",
+      "size": 193854,
+      "sha256": "720bf1900a1767b350c3862cc49f113f49c0a0734666171295e79561acb721a4"
+    },
+    {
+      "path": "icons/icon.png",
+      "size": 18658,
+      "sha256": "c80e8e1f80097ea44815f1d33a2b2582728cb1311fc9a096a1c45635ab85fab1"
+    },
+    {
+      "path": "icons/rpg-paradize.png",
+      "size": 2192,
+      "sha256": "a2d5d5254f0c86eb1862885f555c0d77be58ab55d73f8defab7af65cf821d9c5"
+    },
+    {
+      "path": "fonts/bebasneue.ttf",
+      "size": 60576,
+      "sha256": "f2d8f000fd44a71714be0321ae12d3d6bc8bb0ea290b0c1312516f4448cec117"
+    },
+    {
+      "path": "fonts/fa-brands-400.498f4d22.woff2",
+      "size": 116672,
+      "sha256": "b66b3da5ff7b2db79b6cb5a22c3e762e2bf16958a11987e69eeb1980bbbcdfb0"
+    },
+    {
+      "path": "fonts/fa-brands-400.4c05cd9b.ttf",
+      "size": 206480,
+      "sha256": "5afff0a4df2650e9e2689c6021eb968f983eae2b388c2ce32ad853c0dd7f3788"
+    },
+    {
+      "path": "fonts/fa-regular-400.83824cd5.woff2",
+      "size": 25480,
+      "sha256": "3a74c08d486310c03731b458616f0172375fe3780e96165f8a1adc02d1355eaa"
+    },
+    {
+      "path": "fonts/fa-regular-400.96e19e1a.ttf",
+      "size": 68060,
+      "sha256": "69ec55d72001a374fe40cd26ab4325e6312d0459b22372527bf539d28e2e2e47"
+    },
+    {
+      "path": "fonts/fa-solid-900.4cbe3db2.woff2",
+      "size": 156532,
+      "sha256": "f4c5a5b297e623bc159679563a4d1eb16e409ca3b57698fbc00fd2c907dadae0"
+    },
+    {
+      "path": "fonts/fa-solid-900.bb5be820.ttf",
+      "size": 419780,
+      "sha256": "4ea5c3ff563052c2bc6534767c009dea4e2801b7a848bafeae87e9790eb0fc64"
+    },
+    {
+      "path": "fonts/fa-v4compatibility.6b0efc24.ttf",
+      "size": 10832,
+      "sha256": "4694ef58b99d135ec4a4e7cf4b60681dff2cccf06604817a47a53c6ab41d3d2d"
+    },
+    {
+      "path": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNa.4d73cb90.woff",
+      "size": 164912,
+      "sha256": "fd84f88b497040d4f7d5e8c9f8635aef8d3e706c0fa52e2b6facf14eee87e522"
+    },
+    {
+      "path": "fonts/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.c5371cfb.woff2",
+      "size": 128616,
+      "sha256": "4a4dbc62fa335e411b94a532be091c58c0c0c4fa731339f11722577d3cf6443b"
+    },
+    {
+      "path": "fonts/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcY.f882956f.woff",
+      "size": 182028,
+      "sha256": "8e94758c54c26e85aacf2d3dca1ad7aada5904a460238fae4843ebc44bc42edc"
+    },
+    {
+      "path": "fonts/gok-H7zzDkdnRel8-DQ6KAXJ69wP1tGnf4ZGhUcel5euIg.6f420cf1.woff2",
+      "size": 155276,
+      "sha256": "35dca8a7145a17c8d1306f25a3ca091578e15396f0b22d61eb8e73262ac75577"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-400-normal.39fbf8d2.woff2",
+      "size": 10232,
+      "sha256": "ef572f9187a8be018d9d9c2c6b77c1f6cb2af4199f02fc16c292ea10ab25a2cc"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-400-normal.818b8418.woff",
+      "size": 13336,
+      "sha256": "5cb2f1cc0936f89a42ceae34f5a5720248dc5b8114c12b1c33a7d2ef01a9b6b9"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-500-normal.b2740f24.woff2",
+      "size": 10432,
+      "sha256": "1c2db92d3cd9b237ca7c9c07af556d542f28ded1db54cd4382cf776501c5291f"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-500-normal.e9974e82.woff",
+      "size": 13452,
+      "sha256": "e250c05aebcf49971e0b25f476992dd463c28c0292ebb204d9db542fb5066ca7"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-600-normal.8c6413cd.woff2",
+      "size": 10484,
+      "sha256": "509fca9c59564f9a846fa69bc647f9b050fc11abf1c9f6f3da71fb2d5ed425bd"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-600-normal.d6d44e87.woff",
+      "size": 13464,
+      "sha256": "a5073285409443f4653c858de58c5dc0bfc2fd33e60d8747388345e7c5ab1ab3"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-700-normal.43f6f7e8.woff",
+      "size": 13408,
+      "sha256": "0f3d4be2bd7018f78fa3484a5f6e9d8ce567689426643b84a47e8cabb91e5f16"
+    },
+    {
+      "path": "fonts/inter-cyrillic-ext-700-normal.b0c28c67.woff2",
+      "size": 10496,
+      "sha256": "a46b99781170971e2c99a87ff7ee9f5cf90a9dfcd18175e1be6300201d030123"
+    },
+    {
+      "path": "fonts/inter-greek-600-normal.d8b0044c.woff",
+      "size": 10032,
+      "sha256": "090b24e22fc4ddf41450d13bdec81c8a74808b9fc7edaf8df06c909b177a8992"
+    },
+    {
+      "path": "fonts/inter-latin-400-normal.2ea1079c.woff",
+      "size": 30696,
+      "sha256": "e20fa0b4fd2dd26e4d14b3ac3cc922509c3a63fa5e910e90c614544aa042dd45"
+    },
+    {
+      "path": "fonts/inter-latin-400-normal.eca1e215.woff2",
+      "size": 23664,
+      "sha256": "8909904ab6c872eb994093482a88a28eca2cd95912d7b6fecd72103b0dc07edc"
+    },
+    {
+      "path": "fonts/inter-latin-500-normal.5014db63.woff",
+      "size": 31284,
+      "sha256": "9b42c108da48b5ed55a3072e815ffee2d271562e6c0dd6998910e8f9c09e0a3d"
+    },
+    {
+      "path": "fonts/inter-latin-500-normal.b7c27c60.woff2",
+      "size": 24272,
+      "sha256": "f3779f1efccc4bdcdf9c0a02ab95bf6bd092ed09c48c08cedc725889edd1d19f"
+    },
+    {
+      "path": "fonts/inter-latin-600-normal.69a8d1d4.woff2",
+      "size": 24452,
+      "sha256": "f9a06e79cd3a2a20951c0f0e28f66dd0e6d3fda73911d640a2125c8fcb78f21a"
+    },
+    {
+      "path": "fonts/inter-latin-600-normal.f10265da.woff",
+      "size": 31260,
+      "sha256": "6a9cb3a509b4eeaf12b7dda6c4aacac3e85d07f4201bf4dd716e332e692b87bd"
+    },
+    {
+      "path": "fonts/inter-latin-700-normal.11042366.woff2",
+      "size": 24356,
+      "sha256": "6f56409fd3d64bb85f7d070bce20749db2d66b6d63cec586cc22d1c761be2491"
+    },
+    {
+      "path": "fonts/inter-latin-700-normal.c73ae725.woff",
+      "size": 31320,
+      "sha256": "7c5ed5655730de337704d3fc94628515cd7e3d8d32368871709bf56ac0397e7a"
+    },
+    {
+      "path": "fonts/inter-latin-ext-400-normal.210fb826.woff2",
+      "size": 35000,
+      "sha256": "6744a7f509ebc6ab220a6cd4ea77e898adf014f03d88dcda5d45d8a9feefb4e9"
+    },
+    {
+      "path": "fonts/inter-latin-ext-400-normal.c6162051.woff",
+      "size": 47560,
+      "sha256": "22ae8360fbad24d2af7c6c9898a346c881774dc87f7cf94bd262c48ad58d7116"
+    },
+    {
+      "path": "fonts/inter-latin-ext-500-normal.2f93aaa3.woff",
+      "size": 48492,
+      "sha256": "30d2903ce97f8a89ea0e9c083b42cb8bf97e7bbb5607e7f00352815f19cb0d5b"
+    },
+    {
+      "path": "fonts/inter-latin-ext-500-normal.cdb4dd5d.woff2",
+      "size": 36024,
+      "sha256": "2c6fbc42d315528beb06c1096df45487bf4186c4b78b8111d12c9c951f8acca2"
+    },
+    {
+      "path": "fonts/inter-latin-ext-600-normal.4d0d5017.woff",
+      "size": 48668,
+      "sha256": "22ff20a6170674fb9637c2a072227be86303bb6ec52b829b9d7077405f7196a6"
+    },
+    {
+      "path": "fonts/inter-latin-ext-600-normal.8148c3ae.woff2",
+      "size": 36260,
+      "sha256": "e4bdf67b0cd15ca9e184509275be95db942195d3cc2b17f6a0452f2adf75d0bf"
+    },
+    {
+      "path": "fonts/inter-latin-ext-700-normal.bc59219e.woff2",
+      "size": 36244,
+      "sha256": "143f9504f1377012aa3e39c90c4354ef429cb0494b9ac0e1437f1a81e5412236"
+    },
+    {
+      "path": "fonts/inter-latin-ext-700-normal.d4a91814.woff",
+      "size": 48632,
+      "sha256": "1761edba32014180deab3dbbe3f7156c64ef6f34bc76313ba31ce227fc9ff391"
+    },
+    {
+      "path": "fonts/luckiestguy-regular.ttf",
+      "size": 58324,
+      "sha256": "fbe683091b0db0faa8f38e5227ad3bc17dc67f119f27ff10a63d72f5f9bb9da3"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-400-normal.f85b74ce.woff2",
+      "size": 11804,
+      "sha256": "c4afc8bd4b1886495a93a274e179a27962732a83176b79f7109608f2d08cb94a"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-600-normal.f6789fe8.woff2",
+      "size": 12116,
+      "sha256": "7c6c3d668fba687befae00b35f4d0dc17e07b985060835d77b7a59df76cfe64e"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-700-normal.2c46b797.woff2",
+      "size": 12144,
+      "sha256": "7b9ef131039e058b622d4da5cbb6d2e783526d137cbf74738f8984c25c2d3fbf"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-700-normal.9ef5c26e.woff",
+      "size": 10012,
+      "sha256": "74b7e7809f1e31db2a2d21fa1f0c0924652d2376e5577a9388e0de5425ca467e"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-400-normal.c464f741.woff",
+      "size": 15352,
+      "sha256": "a6308f03882acaa05c364de33407509077fad71c01ad937b4b46d5d58917258f"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-400-normal.cdeda90f.woff2",
+      "size": 17032,
+      "sha256": "c3cfc330166c7fa8e197cc69866f3f33a81c089d19b9f218257323ec46a03e73"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-600-normal.65c942c9.woff",
+      "size": 15556,
+      "sha256": "1754bbbfdf107332eed930d360000913224b21eb855a7c11464ebb7b8aba66b9"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-600-normal.fa030724.woff2",
+      "size": 17496,
+      "sha256": "52efa211975963446c924566fb4a985b8bcf9e092e9b4fc00331ad7acae8c505"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-700-normal.2046de7c.woff2",
+      "size": 17496,
+      "sha256": "26bbae1360c000cd7127ad38e660b7c7165b18dd6abbe1c21830c1e066394434"
+    },
+    {
+      "path": "fonts/roboto-condensed-cyrillic-ext-700-normal.d1e3d592.woff",
+      "size": 15560,
+      "sha256": "2a44ee64f5a35695c4af03cb912bdad962ec4314413d0510cd788224848ba483"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-400-normal.016186a7.woff",
+      "size": 19576,
+      "sha256": "b6f0b0fbbdf88610c988177ffaeeb1694f06208515e6e64ddc706ab4836b6dc1"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-400-normal.4fcc1100.woff2",
+      "size": 20820,
+      "sha256": "543c03fff71d1b39590af102e0852c2dbce46f4dbe4faaebafbef6edc82e78f5"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-600-normal.00d59264.woff2",
+      "size": 21112,
+      "sha256": "eaf782735cb4368413d40ca6b42531024e255f39198ce02bee0c5a6d002cdbd5"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-600-normal.ee47e241.woff",
+      "size": 19752,
+      "sha256": "fdce6a3f7c6fa78ed4ed315f59c9300125f4bff07153325f8d8ff512d59d0634"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-700-normal.2c299713.woff",
+      "size": 19736,
+      "sha256": "9f8082378caff5777df6571e311e1f0789022fe1db256e166b15e80cdea11c8e"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-700-normal.ab9d998a.woff2",
+      "size": 21128,
+      "sha256": "ab74f0c2d7ec37e44e017b9586675dd00c519591207dc3bbc8e003c5628dc9b7"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-400-normal.1b07f59b.woff2",
+      "size": 13968,
+      "sha256": "ca2b9eabacfab99dade007dddad623bb6895c445529d24fd70540c3fcc84eb39"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-400-normal.62f39257.woff",
+      "size": 12548,
+      "sha256": "923a0cd0e1a47eaa53d3aad4d660b60efa548738e9955dd376e70efafda89742"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-600-normal.1cc3eec2.woff",
+      "size": 12652,
+      "sha256": "cec1c5879c372ec7ea48729ccd2e3a86973f7e83268568ed5f89893f1d4f2f39"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-600-normal.f1fc595f.woff2",
+      "size": 14288,
+      "sha256": "ca47ccb548e4ed2b457e59ddaa4c48467285f682f5690482a1e91c9e99a6eadc"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-700-normal.4c57139e.woff",
+      "size": 12660,
+      "sha256": "409c4a13c9d2f34419f6a60ccc05f3b7924672aac2c64f5474a38cfd313fe001"
+    },
+    {
+      "path": "fonts/roboto-condensed-latin-ext-700-normal.f4f0d72f.woff2",
+      "size": 14236,
+      "sha256": "b7afcd7367b91f6fafbd05ab4ac6195ebd95794e354c368a0dcb1abb5ffc87ed"
+    },
+    {
+      "path": "assets/speedrush/character.png",
+      "size": 212061,
+      "sha256": "9400db611b3198bd9077ab33a870f197db77db304deae3fa289b918614c70d17"
+    },
+    {
+      "path": "assets/speedrush/hero-visual.jpg",
+      "size": 270810,
+      "sha256": "3c10bdbd06bcda5584179ec55ee71ca4b7fe7aaf6fb9c0754104ac32ff2d7073"
+    },
+    {
+      "path": "assets/speedrush/hero.png",
+      "size": 133510,
+      "sha256": "68c392721cba3dfa7187e63934daaa0b53622798104a1665508105147ab906a8"
+    },
+    {
+      "path": "assets/speedrush/logo.png",
+      "size": 111571,
+      "sha256": "6552a0d34b3d6c6379489c77e111b71a2da0f32a16dd5f29866085bc31dd765a"
+    },
+    {
+      "path": "assets/speedrush/reward-1.png",
+      "size": 58084,
+      "sha256": "625498e516ac82ece77daae697498bb8e0bd32b9c4faa05e4fd804a68362b9a3"
+    },
+    {
+      "path": "assets/speedrush/reward-2.png",
+      "size": 49586,
+      "sha256": "422632913a45f5b203ce867b8f415a12d32c48d607f543d59fe2d7d01fa48e58"
+    },
+    {
+      "path": "assets/speedrush/reward-3.png",
+      "size": 44974,
+      "sha256": "2bec4de85e0d717cf70f7885ca83e4700bd36e03e2f801df9147e81f1d51ecc6"
+    },
+    {
+      "path": "assets/speedrush/server-map.png",
+      "size": 104982,
+      "sha256": "8b79fb680774737b888aa018c66295415102fc9e81183a0ad5a9c221d7ca49c6"
+    },
+    {
+      "path": "assets/speedrush/speedrush-discord.png",
+      "size": 1794969,
+      "sha256": "f72d1c5ff14688ae93af2e6dd69e009a58dcdbfc8da22f2f65b0dce0af154db9"
+    },
+    {
+      "path": "assets/speedrush/rewards/1.png",
+      "size": 61783,
+      "sha256": "b8cfd730130372a8436775ce3680e7edef7c498de56fd33f4c1fc6a99ea0d22c"
+    },
+    {
+      "path": "assets/speedrush/rewards/2.png",
+      "size": 53216,
+      "sha256": "95fbafe63dab63500278979be68240aa92fe68b24a2a509bb933c8b17edbcb8c"
+    },
+    {
+      "path": "assets/speedrush/rewards/3.png",
+      "size": 48214,
+      "sha256": "70016891c4c4459376ff9a4156fd464f6449bfc2e737acd4ed735a67e5698035"
+    }
+  ],
+  "metadata_cleaned_assets": [
+    "assets/speedrush/speedrush-discord.png"
+  ]
+}

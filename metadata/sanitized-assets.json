@@ -1,0 +1,12 @@
+{
+  "assets": [
+    {
+      "path": "assets/speedrush/speedrush-discord.png",
+      "original_sha256": "c7b3801b7c657fbb9062b0f6aad74825992d735064cba17ace3e8622ca30d64d",
+      "publication_sha256": "f72d1c5ff14688ae93af2e6dd69e009a58dcdbfc8da22f2f65b0dce0af154db9",
+      "pixels_sha256": "a3912e3ae41aff3a8101982c9cdfe35342b47e0098678167d042992d3e5e92d7",
+      "pixels_unchanged": true,
+      "change": "Nonvisual provenance metadata removed for the publication copy; original supplied installation preserved."
+    }
+  ]
+}

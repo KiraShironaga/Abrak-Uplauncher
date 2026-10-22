@@ -1,0 +1,78 @@
+{
+  "source": "Windows application, local demonstration accounts",
+  "toolbar_present": false,
+  "screenshots": [
+    {
+      "file": "01-launcher.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "da6d5cc303afdb3a44e0072ca2eafd900d53b592fce4a46c0594fdce0a990877"
+    },
+    {
+      "file": "02-boutique.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "e1a598d528ee9efed72d2f6adbe8afafe99d63b6810cb7719eba01a08ba4f6eb"
+    },
+    {
+      "file": "03-battle-pass.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "0fa37496d629cc3f4cb0dad4369a119a795fc99cab6d324ef70b73b295d379ea"
+    },
+    {
+      "file": "04-bourse.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "44b2e887acf47b4c504773200c08e58aa33874e64ff4cbbf8d895e2944d30fb2"
+    },
+    {
+      "file": "05-recherche.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "e7a3cb0f6dc2a1423596f13236eaa5f8b95cecadced192787ddb3f155aeec88d"
+    },
+    {
+      "file": "06-inventaire.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "a1a73cbfb5671cbcb4a5c96e0d00d46a8b49dfbd9f58164b7188da38e9f2cc5a"
+    },
+    {
+      "file": "07-menu-compte.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "44a6c0391db03ee72add830246c1abbd1fb2fde666c81b5285000cd00c402d9e"
+    },
+    {
+      "file": "08-administration.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "510e2d5c9f8d2ff98518ff01e813fcdfdb2c8a15ef557a41e4c0906deedd9a1a"
+    },
+    {
+      "file": "09-bans.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "fd6f6562a10991633ff1e64ab3d1b47475c7508e06f89fee0b6e7b881985694b"
+    },
+    {
+      "file": "10-anti-triche.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "06349877b0929867eade9a3231ba3691a4a10c6162a4e1552862e34194f1144b"
+    },
+    {
+      "file": "11-item-finder.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "5b51a9bc4f83ef68ae7328f78643675c87a8c68d42cd107a86930aff0f725136"
+    },
+    {
+      "file": "12-statistiques-admin.jpg",
+      "width": 1300,
+      "height": 700,
+      "sha256": "b9b1ec4e57beb17694639b77514d916e1085e73dc8dd6f32ba97e9c51a820c6d"
+    }
+  ]
+}

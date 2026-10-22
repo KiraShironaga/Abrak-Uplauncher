@@ -1,0 +1,71 @@
+# Fonctionnalités et administration
+
+Les écrans reprennent l’interface du launcher fourni. Le backend local implémente leurs contrats avec des validations, des droits et une persistance SQLite. Les données de démonstration sont créées au premier démarrage.
+
+## Écrans joueur
+
+| Fonction | Usage et portée |
+| --- | --- |
+| Accueil et actualités | Lire les articles, événements, mises à jour et notes publiées localement |
+| Installation du client | Importer un client compatible, publier son manifeste, vérifier et mettre à jour ses fichiers |
+| Comptes | Gérer les comptes et personnages fictifs ; relier explicitement les comptes d’un serveur local compatible |
+| Recherches | Filtrer les objets, monstres et altérés du catalogue ; consulter les tables et détails |
+| HDV | Consulter les statistiques et l’historique local des achats/ventes |
+| Drops, crafts et monstres | Explorer les événements de démonstration et leurs filtres |
+| Exos, marchand et PNJ | Consulter les autres statistiques et tables prévues par l’interface |
+| Classements | Voir expérience, votes, guildes, succès, donjons et progression locale |
+| Boutique | Parcourir les produits, favoris, promotions, packs et commandes |
+| Paiement local | Confirmer une facture de test ; aucune somme réelle n’est prélevée |
+| Inventaire | Voir les objets à récupérer et choisir un compte autorisé |
+| Abonnements | Prolonger les droits locaux ; effet réel seulement avec le pont de jeu compatible |
+| Services | Appliquer les services implémentés et refuser les services inconnus |
+| Bourse aux kamas | Créer, remplir et annuler des offres en contrôlant les monnaies réservées |
+| Vente de personnages | Créer une vente et suivre son transfert ; le pont est requis pour modifier un personnage natif |
+| Banque | Transférer les kamas entre le portefeuille local et un personnage autorisé |
+| Votes et parrainage | Simuler les états et récompenses du fournisseur local |
+| Battle pass et missions | Suivre les événements de test et réclamer les récompenses une seule fois |
+| Bon retour et calendrier | Afficher la progression et les événements locaux |
+| Loteries et événements | Tester les flux prévus par le backend avec les monnaies de démonstration |
+| Suggestions et bugs | Créer et consulter les éléments locaux et leurs statuts |
+| Notifications | Recevoir les événements du backend via le service temps réel local |
+| Wiki et informations | Ouvrir les pages et guides locaux |
+
+Les tests synthétiques ne sont pas des preuves de combat, d’anti-triche natif ou de paiement réel. Les variantes Beta et Rush ne disposent pas d’un client fourni dans ce dépôt.
+
+## Accéder à l’administration
+
+Avec le compte administrateur de démonstration, lancer `Administration.cmd` ou `npm run admin` après avoir quitté le launcher déjà ouvert. Le lien direct est `http://127.0.0.1:4318/#/admin`. Le bouton de menu en haut à gauche ouvre la navigation administrative.
+
+![Administration](screenshots/08-administration.jpg)
+
+## Modération
+
+**Liste des bans** consulte et gère les bans du backend local. Leur effet sur une connexion de jeu exige une intégration du serveur qui applique ces sanctions.
+
+![Liste des bans](screenshots/09-bans.jpg)
+
+**Anti-triche** prend l’identifiant de l’utilisateur web, puis affiche son contexte et les signalements enregistrés. Dans la démonstration, utiliser l’identifiant **1** ou **2**. Un PID est l’identifiant d’un processus en cours d’exécution ; ce n’est pas une liste des logiciels installés. La copie locale n’exécute pas de collecte de processus du PC.
+
+![Anti-triche](screenshots/10-anti-triche.jpg)
+
+## Outils
+
+**Item Finder** recherche des objets par GUID sur le serveur sélectionné. Dans le backend de démonstration, cette recherche est limitée aux données locales enregistrées. **Give** prépare les dons et valide l’utilisateur cible, l’objet et la quantité. L’inventaire web et l’inventaire natif ne sont synchronisés qu’avec un pont de jeu actif et un accusé de réception valide.
+
+![Item Finder](screenshots/11-item-finder.jpg)
+
+## Statistiques administrateur
+
+Le menu couvre économie, génération/destruction de kamas, maisons, HDV, combats, premières connexions, sessions, personnages, monstres, bourse et boutique en jeu. Les séries affichées par défaut proviennent des événements locaux.
+
+![Statistiques](screenshots/12-statistiques-admin.jpg)
+
+## Gestion du serveur et des contenus
+
+Les commandes **Login** et **Game** sont des actions locales validées. Une opération inconnue ou un serveur absent ne doit pas être présenté comme un succès natif. Les promotions, articles et mises à jour ont leurs propres droits et validations.
+
+Les routes administrateur refusent les utilisateurs anonymes et les comptes joueur. Les sous-fonctions peuvent exiger un rôle plus élevé. La connexion de démonstration reste volontairement simplifiée et limitée à la machine locale.
+
+## Sources des images
+
+Les captures de `screenshots/` sont des captures réelles de la copie locale, avec les comptes fictifs. Les catalogues et ressources sont ceux inclus avec le projet. Le client natif, la base privée et les profils utilisés sur une autre machine ne sont pas distribués.

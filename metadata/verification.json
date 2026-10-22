@@ -1,0 +1,32 @@
+{
+  "status": "PASS",
+  "tests": {
+    "passed": 77,
+    "skipped_requires_native_server": 0,
+    "failed": 0,
+    "client_publisher_passed": 9,
+    "client_import_fixture": "PASS"
+  },
+  "build": {
+    "status": "PASS",
+    "electron": "40.10.6",
+    "archiveMembers": 1082,
+    "bundledAssets": 203,
+    "archiveSha256": "7cb8d835b8901a8d2dc1e3e4ebefe91e6e5b6126e6664397e98da2948fc22564"
+  },
+  "screenshots": 12,
+  "readme_screenshots": 3,
+  "readme_local_links": "PASS",
+  "screenshot_private_metadata_entries": 0,
+  "state_in_publication": false,
+  "third_party_notices_preserved": true,
+  "image_metadata_cleaning": "PASS: one image; decoded RGBA pixels unchanged",
+  "build_runtime_state_excluded": true,
+  "backend": {
+    "routes": 203,
+    "privateGameConnectorIncluded": false,
+    "demoAccountsOnly": true
+  },
+  "database_exports_in_publication": false,
+  "game_server_sources_in_publication": false
+}

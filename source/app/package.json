@@ -1,0 +1,19 @@
+{
+  "name": "abrak-launcher-desktop",
+  "version": "1.4.65",
+  "private": true,
+  "productName": "Abrak Launcher",
+  "description": "Abrak Launcher \u2014 environnement local",
+  "main": "./electron-main.js",
+  "dependencies": {
+    "chmodr": "1.2.0",
+    "discord-rpc": "4.0.1",
+    "electron-updater": "6.8.9",
+    "find-process": "1.4.7",
+    "fs-extra": "10.1.0",
+    "macaddress": "0.5.3",
+    "node-downloader-helper": "2.1.4",
+    "onezip": "5.0.0",
+    "p-map": "4.0.0"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "name": "abrak-uplauncher",
+  "version": "1.4.65-local.1",
+  "private": true,
+  "description": "Interface Abrak et environnement de démonstration local",
+  "type": "module",
+  "engines": {
+    "node": ">=24.15.0"
+  },
+  "scripts": {
+    "setup": "node tools/setup.mjs",
+    "start": "node backend/server.mjs",
+    "desktop": "node tools/launch.mjs",
+    "build": "node tools/build.mjs",
+    "test": "node tools/test.mjs",
+    "verify": "node tools/verify.mjs",
+    "check:publication": "node tools/check-publication.mjs",
+    "package:source": "python tools/package-source.py",
+    "import:client": "node tools/import-client.mjs",
+    "admin": "node tools/launch.mjs --admin"
+  },
+  "dependencies": {
+    "tinymce": "8.6.0",
+    "tinymce-i18n": "26.9.28",
+    "ws": "8.22.0"
+  },
+  "devDependencies": {
+    "@electron/asar": "4.3.1",
+    "electron": "40.10.6"
+  }
+}

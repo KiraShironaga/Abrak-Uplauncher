@@ -1,0 +1,77 @@
+# Compiler et lancer
+
+## Prérequis
+
+- Windows x64.
+- Node.js 24.15 ou supérieur et npm, accessibles dans le terminal.
+- Git pour récupérer les sources et vérifier la publication.
+- Python 3.11 ou supérieur pour les scripts de publication du client et d’archivage.
+
+Vérifier les outils :
+
+```powershell
+node --version
+npm --version
+git --version
+python --version
+```
+
+## Installer les dépendances
+
+Ouvrir PowerShell dans la racine du projet :
+
+```powershell
+npm ci
+npm run setup
+```
+
+`npm ci` installe les versions du verrou racine, notamment Electron 40.10.6 et l’outil ASAR. `setup` installe les dépendances natives depuis le verrou de `source/app/` et crée `desktop/client-config.json` à partir de l’exemple, sans écraser une configuration existante.
+
+## Construire l’application
+
+```powershell
+npm run build
+```
+
+La compilation copie le runtime Electron, prépare `resources/app.asar`, compare chaque fichier empaqueté à sa source et vérifie les 203 assets du launcher, hors dépendances. Les notices Electron et Chromium restent présentes dans la distribution.
+
+Sortie : `dist/Abrak Launcher/Abrak Launcher.exe`.
+
+## Démarrer
+
+```powershell
+npm run desktop
+```
+
+Le script démarre le backend local si nécessaire puis l’application, avec un profil séparé dans `profile-local/`. Si le port 4318 appartient à un autre projet, le script s’arrête sans prendre sa place.
+
+Les lanceurs `.cmd` utilisent Node depuis le PATH, la variable optionnelle `ABRAK_NODE`, ou une copie locale dans `runtime/node/node.exe`. Ce runtime optionnel reste exclu du dépôt.
+
+Le dossier `dist/` seul n’est pas un installateur autonome : garder les sources, la configuration et les dépendances à côté. Utiliser `Lancer-local.cmd` à la racine pour un lancement par double-clic. Le bouton de fermeture du launcher peut le réduire dans la zone de notification ; utiliser **Quitter** dans cette zone pour l’arrêter complètement.
+
+Pour le mode navigateur, `npm start`, puis `http://127.0.0.1:4318/`.
+
+## Vérifier
+
+```powershell
+npm test
+npm run verify
+python -m unittest discover -s tools -p test_publish_client.py
+npm run check:publication
+```
+
+Les rapports techniques sont écrits dans `work/reports/`, qui reste exclu de la publication. Les captures de présentation sont dans `docs/screenshots/`.
+
+## Dépannage
+
+| Problème | Vérification |
+| --- | --- |
+| `node:sqlite` indisponible | Utiliser Node.js 24.15 ou supérieur |
+| Dépendance du launcher absente | Relancer `npm run setup` |
+| Application non compilée | Exécuter `npm run build` |
+| Port 4318 occupé | Arrêter l’autre environnement qui utilise ce port |
+| Installation du jeu indisponible | Importer son propre client et publier une première version ; voir le guide client |
+| Accès administration refusé | Utiliser le compte administrateur local et `/#/admin` |
+| Image spécifique absente | Les images fournies sont conservées ; un visuel absent des sources nécessite son propre fichier |
+
+Les composants Java, SQL et le client Flash ne sont pas requis pour explorer les écrans, recherches et opérations du backend de démonstration. Leur intégration est une étape distincte.

@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkabrak"]=globalThis["webpackChunkabrak"]||[]).push([[4255],{4255:(a,r,u)=>{u.r(r),u.d(r,{default:()=>t});var e=u(1758);function n(a,r){return(0,e.uX)(),(0,e.CE)("div")}var b=u(2807);const k={},s=(0,b.A)(k,[["render",n]]),t=s}}]);

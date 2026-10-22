@@ -1,0 +1,1 @@
+"use strict";(globalThis["webpackChunkabrak"]=globalThis["webpackChunkabrak"]||[]).push([[7617],{9998:(a,n,e)=>{e.r(n),e.d(n,{default:()=>k});var r=e(1758);function s(a,n,e,s,t,c){const o=(0,r.g2)("q-page");return(0,r.uX)(),(0,r.Wv)(o,{padding:""})}const t={};var c=e(2807),o=e(3177),u=e(8582),b=e.n(u);const g=(0,c.A)(t,[["render",s]]),k=g;b()(t,"components",{QPage:o.A})}}]);
